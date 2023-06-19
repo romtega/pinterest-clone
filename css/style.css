@@ -285,6 +285,10 @@
   box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.1), 0 2px 10px 0 rgba(0, 0, 0, 0.1);
 }
 
+/**********************/
+/* MEDIA QUERIES */
+/**********************/
+
 @media screen and (max-width: 768px) {
   .btn-grouped {
     display: flex;
