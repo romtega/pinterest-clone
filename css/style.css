@@ -310,6 +310,7 @@ body {
   width: 3.2rem;
   position: fixed;
   z-index: 1;
+  cursor: pointer;
   right: 2.4rem;
   bottom: 2.4rem;
   background-color: #fff;
